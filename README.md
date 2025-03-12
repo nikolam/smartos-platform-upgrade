@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-[root@acro ~]# curl -kL https://raw.githubusercontent.com/org-tekeli-borisp/smartos-platform-upgrade/master/platform-upgrade > /opt/local/bin/platform-upgrade
+[root@acro ~]# curl -kL https://raw.githubusercontent.com/nikolam/smartos-platform-upgrade/master/platform-upgrade > /opt/local/bin/platform-upgrade
 [root@acro ~]# chmod 755 /opt/local/bin/platform-upgrade
 ```
 
